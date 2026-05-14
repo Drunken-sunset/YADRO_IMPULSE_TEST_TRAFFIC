@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     ModelVariant model = PoissonTraffic{intensity, limit_time};
 
     std::ofstream out("output.csv");
-    out << "Time, Size, ModelName\n";
+    out << "Time,Size,ModelName\n";
 
     double current_time = 0;
     
