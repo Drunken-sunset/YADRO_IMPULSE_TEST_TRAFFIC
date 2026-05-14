@@ -1,0 +1,3 @@
+/home/liya/my_project/cpp/build/CMakeFiles/traffic_model.dir
+/home/liya/my_project/cpp/build/CMakeFiles/edit_cache.dir
+/home/liya/my_project/cpp/build/CMakeFiles/rebuild_cache.dir

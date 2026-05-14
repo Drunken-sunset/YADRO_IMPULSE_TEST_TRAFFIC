@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/liya/my_project/cpp/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
